@@ -28,7 +28,7 @@ module.exports = welcome = async (Ramdani, anu) => {
                 pp_grup = 'https://i.postimg.cc/SN54m6LW/SAVE-20210728-133334.jpg'
             }
             if (anu.action == 'add' && mem.includes(Ramdani.user.jid)) {
-            Ramdani.sendMessage(anu.jid, 'Luh Undan Gw Udh Izin Owner belum Kalo Belum Chat https://wa.me/6288219647445', 'conversation')
+            Ramdani.sendMessage(anu.jid, 'Luh Undang Gw ???, Udh Izin Owner belum ?? Kalo Belum Chat \n\n• https://wa.me/6288219647445 \n Izin Dlu Ama Owner Gw Nomer nya ada Diatas ☝☝', 'conversation')
             }
              if (anu.action == 'add' && !mem.includes(Ramdani.user.jid)) {
              if (!welkom.includes(anu.jid)) return
