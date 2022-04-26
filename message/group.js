@@ -28,7 +28,7 @@ module.exports = welcome = async (Ramdani, anu) => {
                 pp_grup = 'https://i.postimg.cc/SN54m6LW/SAVE-20210728-133334.jpg'
             }
             if (anu.action == 'add' && mem.includes(Ramdani.user.jid)) {
-            Ramdani.sendMessage(anu.jid, 'Halo! Terima Kasih sudah Mengundangku, Jika ingin Menggunakan Bot Ketik ${prefix}menu', 'conversation')
+            Ramdani.sendMessage(anu.jid, 'Luh Undan Gw Udh Izin Owner belum Kalo Belum Chat https://wa.me/6288219647445', 'conversation')
             }
              if (anu.action == 'add' && !mem.includes(Ramdani.user.jid)) {
              if (!welkom.includes(anu.jid)) return
@@ -40,9 +40,9 @@ module.exports = welcome = async (Ramdani, anu) => {
                 time_wel = moment.tz('Asia/Jakarta').format("HH:mm")
                 teks = `Halo Member baru\n${anu_user} \nIntro\n• Nama : \n• Umur :\n• Gender : \n• Asal :\n\n• Semoga Betah `
 	            buff = fs.readFileSync(`media/foto/welcome.jpg`) 
-                buttons = [{buttonId: `#`,buttonText:{displayText: 'WELCOME BABU'},type:1}]
+                buttons = [{buttonId: `#`,buttonText:{displayText: 'WELCOME 👋'},type:1}]
                 imageMsg = (await Ramdani.prepareMessageMedia((buff), 'imageMessage', {thumbnail: buff})).imageMessage
-                buttonsMessage = { contentText: `${teks}`, footerText: 'Baca deskripsi dulu kontol langsung masuk aja', imageMessage: imageMsg, buttons: buttons, headerType: 4 }
+                buttonsMessage = { contentText: `${teks}`, footerText: 'Baca deskripsi dulu Kakak ;-;', imageMessage: imageMsg, buttons: buttons, headerType: 4 }
                 prep = await Ramdani.prepareMessageFromContent(mdata.id,{buttonsMessage},{})
                 Ramdani.relayWAMessage(prep)
 }
