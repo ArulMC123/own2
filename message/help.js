@@ -1,12 +1,12 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
-• *NAMA BOT :* Ramdani Botz
-• *NOMOR BOT :* 6288296339947
-• *NAMA OWNER :* Ramdani Official
-• *NOMOR OWNER :* 6289512545999
-• *LINK :* wa.me/6289512545999
-• *CREATOR :* RAMDANI OFFICIAL
-• *BASE ORI :* RAMDANI OFFICIAL
+• *NAMA BOT :* SkyBotz-V1
+• *NOMOR BOT :* 628871772190
+• *NAMA OWNER :* ArulOwner[PembuatBot]
+• *NOMOR OWNER :* 6288219647445
+• *LINK :* wa.me/6288219647445
+• *CREATOR :* Arul,Adly,Putra,AnggaMC
+• *BASE ORI :* SkyBotxz OFFC
 • *PREFIX :* MULTI PREFIX
 • *FITUR :* 500+
 • *VERSION :* 17.0.0
@@ -19,7 +19,7 @@ return`*RULES BAGI PENGGUNA ${namabot}*
 ➤ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
 ➤ Call/VC Bot Auto Block.
 ➤ Jangan Call/VC Bot Kalau Tidak aktif.
-➤ Bot tidak aktif 24 jam, jadi tergantung kalau ownernya lagi ada waktu botnya juga on.
+➤ Bot tidak aktif Selama 24 jam.
 
 *Konsekuensi Bila Melanggar Rules*
 Bot Akan Memblokir Kamu Atau Keluar Dari Grup Yang Kamu Kelola.
@@ -42,9 +42,9 @@ return`━━━━━『 *LIST SEWA BOT* 』━━━━━
 
 ❏ PERHARI : 1 HARI 2K, 5 HARI 10K 
 ❏ PERMINGGU : 1MIN. 14K, 2MIN. 28K, 3MIN. 60K,
-❏ PERBULAN : 1B. 30K, 2B. 70K, 3B. 140K,
-❏ PERTAHUN : 1THN. 350K, 2THN. 700K,
-❏ PERMANEN : TIMDAK TERSEDIA!
+❏ PERBULAN : 1B. 30K,
+❏ PERTAHUN : *TIDAK TERSEDIA !!!*,
+❏ PERMANEN : *TIDAK TERSEDIA !!!*
 `}
 exports.beliprem = (prefix) => {
 return`━━━━━『 *LIST PREMIUM* 』━━━━━
@@ -52,19 +52,17 @@ return`━━━━━『 *LIST PREMIUM* 』━━━━━
 ❏ PERHARI : 2H. 1K, 5H. 4K, 7H 6K,
 ❏ PERMINGGU : 1MIN. 6K, 2MIN. 10K, 3MIN. 15K,
 ❏ PERBULAN : 1B. 18K, 2B. 28K, 3B. 38K,
-❏ PERTAHUN : 1THN. 100K
-❏ PERMANEN : 150K`
+❏ PERTAHUN : *TIDAK TERSEDIA !!!*
+❏ PERMANEN : *TIDAK TERSEDIA !!!*`
 }
 exports.groupbot = (prefix) => {
 return
-`kumpulan link grup bot by Ramdani Official (mastah 😎)
-Link grup 1 = https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu
-Link grup 2 = https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq
-Link grup 3 = https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK
-Link grup coding bersama = https://chat.whatsapp.com/FR0FmwpBEmQ3HuyF2SIdVQ
-Link grup tes bot = https://chat.whatsapp.com/L8ucMoUQUTt3gKzSvpttbU
-Link grup murid bot = https://chat.whatsapp.com/IyNVUbMxyoSG0Sw0oe6T62
-Link grup saling subscribe = https://chat.whatsapp.com/Dx8VCkqvDSRD5yXXxQ3LK3`
+`kumpulan link grup bot by RUL OFFC (Bocil Berkarya 😎)
+Link grup Khusus Anak Minecraft = https://chat.whatsapp.com/DPcaEy3Ro4t34bF10uvnKu
+Link grup Collab Adlyy & Arul = https://chat.whatsapp.com/Cq2Rqvd5POa4HSOnAH0QLQ
+Link grup Tes Bot 1 = https://chat.whatsapp.com/GE050K2kulEAOzNlqT6aqT
+Link grup Tes Bot 2 = https://chat.whatsapp.com/DD6faNVQDSgFMkd3l0Hzqs
+Link grup tes bot 3 = https://chat.whatsapp.com/BfpGLG0Zfdq0yGSWLbPFtT`
 }
 exports.infomenu = (prefix) => {
 return`*⌜ Info Menu⌟*
