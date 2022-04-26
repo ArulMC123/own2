@@ -1,16 +1,16 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
-• *NAMA BOT :* Ramdani Botz
-• *NOMOR BOT :* 6288296339947
-• *NAMA OWNER :* Ramdani Official
-• *NOMOR OWNER :* 6289512545999
-• *LINK :* wa.me/6289512545999
-• *CREATOR :* RAMDANI OFFICIAL
-• *BASE ORI :* RAMDANI OFFICIAL
+• *NAMA BOT :* SkyBotz-V1
+• *NOMOR BOT :* 628871772190
+• *NAMA OWNER :* RulOwner
+• *NOMOR OWNER :* 6288219647445
+• *LINK :* wa.me/6288219647445
+• *CREATOR :* Arul OWN
+• *BASE ORI :* SkyBotz OFFC
 • *PREFIX :* MULTI PREFIX
 • *FITUR :* 500+
 • *VERSION :* 17.0.0
-• *NOTES :* JIKA ADA YG ERROR FIX SENDIRI, SOALNYA PAKE REST API GUA, JELEK NGAB:)
+• *SC BY :* ArulOWN
 `
 }
 exports.rulesbot = (prefix) => {
@@ -43,28 +43,26 @@ return`━━━━━『 *LIST SEWA BOT* 』━━━━━
 ❏ PERHARI : 1 HARI 2K, 5 HARI 10K 
 ❏ PERMINGGU : 1MIN. 14K, 2MIN. 28K, 3MIN. 60K,
 ❏ PERBULAN : 1B. 30K, 2B. 70K, 3B. 140K,
-❏ PERTAHUN : 1THN. 350K, 2THN. 700K,
-❏ PERMANEN : TIMDAK TERSEDIA!
+❏ PERTAHUN : TIDAK TERSEDIA !!!,
+❏ PERMANEN : TIDAK TERSEDIA !!!
 `}
 exports.beliprem = (prefix) => {
 return`━━━━━『 *LIST PREMIUM* 』━━━━━
 
 ❏ PERHARI : 2H. 1K, 5H. 4K, 7H 6K,
 ❏ PERMINGGU : 1MIN. 6K, 2MIN. 10K, 3MIN. 15K,
-❏ PERBULAN : 1B. 18K, 2B. 28K, 3B. 38K,
-❏ PERTAHUN : 1THN. 100K
-❏ PERMANEN : 150K`
+❏ PERBULAN : 1B. 18K, 2B. 28K,
+❏ PERTAHUN : TIDAK TERSEDIA !!!
+❏ PERMANEN : TIDAK TERSEDIA !!!`
 }
 exports.groupbot = (prefix) => {
 return
-`kumpulan link grup bot by Ramdani Official (mastah 😎)
-Link grup 1 = https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu
-Link grup 2 = https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq
-Link grup 3 = https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK
-Link grup coding bersama = https://chat.whatsapp.com/FR0FmwpBEmQ3HuyF2SIdVQ
-Link grup tes bot = https://chat.whatsapp.com/L8ucMoUQUTt3gKzSvpttbU
-Link grup murid bot = https://chat.whatsapp.com/IyNVUbMxyoSG0Sw0oe6T62
-Link grup saling subscribe = https://chat.whatsapp.com/Dx8VCkqvDSRD5yXXxQ3LK3`
+`kumpulan link grup bot by Arul Owner (Bocil MC 😎)
+Link grup Khusus Anak Minecraft = https://chat.whatsapp.com/BfpGLG0Zfdq0yGSWLbPFtT
+Link grup Adly & Arul = https://chat.whatsapp.com/Cq2Rqvd5POa4HSOnAH0QLQ
+Link grup Test Bot 1 = https://chat.whatsapp.com/GE050K2kulEAOzNlqT6aqT
+Link grup Test Bot 2 = https://chat.whatsapp.com/DD6faNVQDSgFMkd3l0Hzqs
+Link grup tes bot 3 = https://chat.whatsapp.com/BfpGLG0Zfdq0yGSWLbPFtT`
 }
 exports.infomenu = (prefix) => {
 return`*⌜ Info Menu⌟*
