@@ -1,20 +1,20 @@
 module.exports.mess = {
-	        regist: '─ 「 *NOT REGISTERED* 」 ─\n\n*ENGLISH*\n_YOU HAVE NOT REGISTERED ON THE BOTTOM OF I DECK, TYPE .verify FOR RUQYAH_\n\n*INDONESIA*\n_LUH BELUM DAFTAR DI BOT GUA DEX, KETIK .daftar UNTUK DI RUQYAH_',
+	        regist: '─ 「 *NOT REGISTERED* 」 ─\n\n*ENGLISH*\n_YOU HAVE NOT REGISTERED ON THE BOTTOM OF I DECK, TYPE .verify FOR bot Member List_\n\n*INDONESIA*\n_LUH BELUM DAFTAR DI BOT GUA DEX, KETIK .daftar Untuk Menjadi Member Bot_',
 		    dewasa: '─ 「 *WARNING* 」 ─\n\n*ENGLISH*\n_not allowed for minors, if you are an adult, please verify first, type .my18_\n\n*INDONESIA*\n_dilarang untuk anak di bawah umur, jika Anda sudah dewasa, silahkan verifikasi terlebih dahulu, ketik .saya18_',
 		    waitregist: '*ENGLISH*\n_WAIT A MINUTE DECK_\n\n*INDONESIA*\n_TUNGGU SEBENTAR DEK_',
 	        wait: '_Wait Process!..._',
-			success: '_Done, don t forget to subscribe_ : https://youtube.com/channel/UCB157jomCne961WzYHpG4gg',
-			wrongFormat: '_Format error, try again!_',
+			success: '_Done, Subscribe Channel Owner_ : https://youtube.com/channel/UCJh9I1GEVJk8qQWGs1t09eQ',
+			wrongFormat: '_Format error, Silahkan Coba Lagi !!!_',
 			error: {
-				api: '_Error, apikey is not found!_',
-				stick: '_Error, just try to send a picture!_',
-				Iv: '_Error, try to give the correct link!_'
+				api: '_Error 404, apikey tidak ada!_',
+				stick: '_Error 404,Itu Bukan Png!_',
+				Iv: '_Error 404, Link Tidak Valid !!!, Coba Berikan Link Yang Benar!_'
 			},
 			only: {
-				group: '_Can only be used in groups!_',
-				admin: '_Can only be used by admin!_',
-				premium: '_Can only be used by premium users!_',
-				owner: '_Can only be used by owner!_',
-				Badmin: '_Can only be used if the bot is an admin!_',
+				group: '_Fitur Hanya Untuk Grup !!!_',
+				admin: '_Maaf, Kamu Bukan Admin !!!_',
+				premium: '_Maaf, Kamu Bukan User premium !!!_',
+				owner: '_Maaf, Maaf, Kamu Bukan Owner !!!_',
+				Badmin: '_Maaf, Fitur Tidak Dapat Bekerja Jika Bot Tidak Menjadi Admin !!!_',
 			}
 		}
