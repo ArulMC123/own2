@@ -19,7 +19,7 @@ return`*RULES BAGI PENGGUNA ${namabot}*
 ➤ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
 ➤ Call/VC Bot Auto Block.
 ➤ Jangan Call/VC Bot Kalau Tidak aktif.
-➤ Bot tidak aktif Selama 24 jam.
+➤ Bot tidak aktif Selama 24 jam, *sesuai paketan owner nya kalo dh sampai batas harian bot off*.
 
 *Konsekuensi Bila Melanggar Rules*
 Bot Akan Memblokir Kamu Atau Keluar Dari Grup Yang Kamu Kelola.
