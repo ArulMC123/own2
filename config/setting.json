@@ -4,10 +4,10 @@
   "AutoRecording": true,
   "AutoReply": true,
   "NamaSession": "sessions",
-  "NamaOwner": "Ramdani Official",
-  "NamaBot": "Ramdani Botz",
-  "NomorOwner": "6289512545999",
-  "NomorOwner2": "6289512545999@s.whatsapp.net",
-  "NomorBot": "6288296339947",
-  "Limit": 20
+  "NamaOwner": "ArulOwner,PutraMC,AdlyKangSad,AnggaAnakMim",
+  "NamaBot": "SkyBotz-V1",
+  "NomorOwner": "6288219647445,6281649123015,6285339347510,6283134716751",
+  "NomorOwner2": "6288219647445@s.whatsapp.net,6281649123015@s.whatsapp.net,6285339347510@s.whatsapp.net,6283134716751@s.whatsapp.net",
+  "NomorBot": "6288871772190",
+  "Limit": 9999999
 }
