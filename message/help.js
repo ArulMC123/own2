@@ -1,16 +1,17 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
-• *NAMA BOT :* SkyBotz-V1
+• *NAMA BOT :* SkyBotz-V1 ༼༽ノ
 • *NOMOR BOT :* 628871772190
-• *NAMA OWNER :* RulOwner
+• *NAMA OWNER :* 𝓐𝓡𝓤𝓛 ლ
 • *NOMOR OWNER :* 6288219647445
 • *LINK :* wa.me/6288219647445
-• *CREATOR :* Arul OWN
+• *CREATOR :* 𝓐𝓡𝓤𝓛 ლ
 • *BASE ORI :* SkyBotz OFFC
 • *PREFIX :* MULTI PREFIX
-• *FITUR :* 500+
-• *VERSION :* 17.0.0
-• *SC BY :* ArulOWN
+• *FITUR :* 532
+• *VERSION :* 15.85
+• *SC BY :* 𝓐𝓡𝓤𝓛 ლ
+• *TOLONG GUNAKAN BOT YANG BENAR KASIH DELAY 4-5 DETIK AGAR BOT TIDAK DELAY
 `
 }
 exports.rulesbot = (prefix) => {
@@ -40,9 +41,9 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!`
 exports.sewabot = (prefix) => {
 return`━━━━━『 *LIST SEWA BOT* 』━━━━━
 
-❏ PERHARI : 1 HARI 2K, 5 HARI 10K 
+❏ PERHARI : 1 HARI=2K, 5 HARI=10K 
 ❏ PERMINGGU : 1MIN. 14K, 2MIN. 28K, 3MIN. 60K,
-❏ PERBULAN : 1B. 30K, 2B. 70K, 3B. 140K,
+❏ PERBULAN : 1B=30K, 2B=70K, 3B=140K,
 ❏ PERTAHUN : TIDAK TERSEDIA !!!,
 ❏ PERMANEN : TIDAK TERSEDIA !!!
 `}
@@ -50,7 +51,7 @@ exports.beliprem = (prefix) => {
 return`━━━━━『 *LIST PREMIUM* 』━━━━━
 
 ❏ PERHARI : 2H. 1K, 5H. 4K, 7H 6K,
-❏ PERMINGGU : 1MIN. 6K, 2MIN. 10K, 3MIN. 15K,
+❏ PERMINGGU : 1MIN=6K, 2MIN=10K, 3MIN=15K,
 ❏ PERBULAN : 1B. 18K, 2B. 28K,
 ❏ PERTAHUN : TIDAK TERSEDIA !!!
 ❏ PERMANEN : TIDAK TERSEDIA !!!`
@@ -683,5 +684,8 @@ exports.hentaimenu = (prefix) => {
 > 530 ${prefix}nekopoi
 > 531 ${prefix}nekopoisearch
 > 532 ${prefix}nsfw_avatar
+*NOTES :* _FITUR BOT ADA YANG EROR \nJADI JIKA BOT NYA TIDAK MEMBALAS PESAN ANDA \nBERARTI EROR !!!_
+*YOUTUBE OWNER :* https://youtube.com/channel/UCJh9I1GEVJk8qQWGs1t09eQ
+*INSTAGRAM OWNER :* https://www.instagram.com/asrul54365?r=nametag
 `
 }
