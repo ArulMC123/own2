@@ -56,9 +56,9 @@ module.exports = welcome = async (Ramdani, anu) => {
                 memeg = mdata.participants.length
                 out = `Byee ${anu_user}`
                 buff = fs.readFileSync(`media/foto/out.jpg`) 
-                buttons = [{buttonId: `.`,buttonText:{displayText: 'ASIK SI BEBAN OUT'},type:1}]
+                buttons = [{buttonId: `.`,buttonText:{displayText: 'YAH KOK OUT KAK'},type:1}]
                 imageMsg = (await Ramdani.prepareMessageMedia((buff), 'imageMessage', {thumbnail: buff})).imageMessage
-                buttonsMessage = { contentText: `${out}`, footerText: 'akhirnya si beban out juga 🗿', imageMessage: imageMsg, buttons: buttons, headerType: 4 }
+                buttonsMessage = { contentText: `${out}`, footerText: 'KAKAK INI KENA MENTAL YA ADICK-ADICK', imageMessage: imageMsg, buttons: buttons, headerType: 4 }
                 prep = await Ramdani.prepareMessageFromContent(mdata.id,{buttonsMessage},{})
                 Ramdani.relayWAMessage(prep)
             }
